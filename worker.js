@@ -30,7 +30,7 @@ var throttleFactor = 0;
 var curWork = null;
 var hashes = 0;
 var lastHashes = 0;
-var running = false;
+var running = true;
 
 var nonce = 0;
 
